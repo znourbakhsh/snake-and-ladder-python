@@ -82,12 +82,10 @@ The game board is displayed using Matplotlib.
 
 Player positions are shown as colored markers on the board and are updated after each round.
 
----
-
-
----
+<img width="627" height="625" alt="image" src="https://github.com/user-attachments/assets/d2a61cf1-fc41-4d20-91c8-041212a4ac18" />
 
 ---
+
 
 ## 👩‍💻 Author
 
